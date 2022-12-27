@@ -1,0 +1,28 @@
+_repo: The-Tower-Rooms_69611
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bruce, Mary Grant
+    birthdate: 1878
+    deathdate: 1958
+    gutenberg_agent_id: '1371'
+    url: http://www.gutenberg.org/2009/agents/1371
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Grant_Bruce
+description: ''
+gutenberg_issued: '2022-12-22'
+identifiers:
+  gutenberg: '69611'
+language: en
+pgterms:marc905: 20221220161905bruce
+pgterms:marc906: '1926'
+pgterms:marc907: GB
+production_note: Al Haines, Cindy Beyer & the online Distributed Proofreaders Canada
+  team at http://www.pgdpcanada.net
+publication_note: 'United Kingdom: Ward, Lock & Co. LImited,1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Tower Rooms
+url: http://www.gutenberg.org/ebooks/69611
